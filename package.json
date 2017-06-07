@@ -1,10 +1,13 @@
 {
   "name": "markdown-highlight-html",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "markdown转换成html，支持自定义模板和主题",
-  "keywords":["markdown","markdown-html"],
+  "keywords": [
+    "markdown",
+    "markdown-html"
+  ],
   "author": "wannasky",
-  "main":"./lib/index.js",
+  "main": "./lib/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,6 +16,8 @@
   "dependencies": {
     "highlight.js": "^9.12.0",
     "html-entities": "^1.2.1",
-    "markdown-it": "^8.3.1"
+    "map-stream": "0.0.7",
+    "markdown-it": "^8.3.1",
+    "vinyl-fs": "^2.4.4"
   }
 }
