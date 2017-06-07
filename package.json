@@ -1,6 +1,6 @@
 {
   "name": "markdown-highlight-html",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "markdown转换成html，支持自定义模板和主题",
   "keywords": [
     "markdown",
